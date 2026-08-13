@@ -10,12 +10,6 @@ This repository is the archival source code for:
 > injection therapy in pediatric vesicoureteral reflux: an in-silico evaluation
 > of technique-dependent outcomes. *Journal of Pediatric Urology* (in press).
 
-**Scope.** This is deliberately a minimal archive: the solver, the six analysis
-scripts that produce every quantitative claim in the paper, and the output files
-those scripts are checked against. Code that only *renders* the published figures
-and formats the published tables is not included — it reproduces presentation,
-not results. Everything needed to independently confirm the findings is here.
-
 ## No patient data
 
 No patient data were used in the study and none are contained in this
