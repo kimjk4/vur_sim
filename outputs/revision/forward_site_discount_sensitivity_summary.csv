@@ -1,0 +1,2 @@
+comparison,n_strata,changed_strata_count,baseline_double_hit_count,baseline_double_hit_plus_sting_count,baseline_hit_count,baseline_sting_count,no_discount_double_hit_count,no_discount_double_hit_plus_sting_count,no_discount_hit_count,no_discount_sting_count,sampling_protocol
+baseline_0p5_vs_no_discount_0p0,75,50,65,9,1,0,27,33,15,0,full 75-stratum balanced grid; OI<=0.15

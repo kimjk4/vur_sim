@@ -1,0 +1,2 @@
+comparison,n_strata,changed_strata_count,baseline_double_hit_count,baseline_double_hit_plus_sting_count,baseline_hit_count,baseline_hit_plus_sting_count,baseline_sting_count,no_asymmetry_double_hit_count,no_asymmetry_double_hit_plus_sting_count,no_asymmetry_hit_count,no_asymmetry_hit_plus_sting_count,no_asymmetry_sting_count,sampling_protocol
+baseline_placement_asymmetry_vs_no_asymmetry,75,16,65,9,1,0,0,52,20,0,3,0,full 75-stratum balanced grid; OI<=0.15

@@ -1,0 +1,9 @@
+reviewer_issue,revision_action,evidence_or_artifact
+Model described as CFD despite reduced-order equations,Reframe as reduced-order CFD-informed pressure-flow model,Revised manuscript Methods; Appendix parameter tables
+Grade templates and parameters under-described,"Add explicit grade template, pressure, BBD, and technique coefficient tables",Revised Appendix Tables A1-A6
+OI=0.15 not clinically validated,State as modeling ceiling and add OI threshold sensitivity,outputs/revision/oi_threshold_sensitivity.csv
+Sigmoid k and V50 not reported,Report V50=0.35 mL/site and k=12.0; add sensitivity,outputs/revision/mound_sigmoid_sensitivity.csv
+Bilateral effects appear numerically small,Reframe bilateral result as relative independence under current architecture,Revised Results and Discussion
+Sensitivity analysis only grade V,Add grade-II/no-BBD tornado figure,outputs/revision/low_grade_sensitivity_tornado.*
+STING grade-V curve appears ineffective and unsafe,Explicitly acknowledge modeled grade-V STING failure and separate from broad clinical literature,Revised Results and response letter
+No external validation,Remove validation claims; label findings hypothesis-generating,"Revised Abstract, Discussion, Limitations"

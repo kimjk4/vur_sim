@@ -1,0 +1,11 @@
+scenario,site_exponent,age_group,sex,initial_grade,bbd_profile,tortuosity_index,technique,n_sites,deflux_volume_ml,reflux_fraction,obstruction_index,mean_forward_flow_ml_s
+baseline_1_over_sqrt_n,0.50,18_24m,female,5,none,2.5,sting,1,1.50,0.2129,0.3056,0.0225
+baseline_1_over_sqrt_n,0.50,18_24m,female,5,none,2.5,hit,1,1.50,0.0400,0.1892,0.0185
+baseline_1_over_sqrt_n,0.50,18_24m,female,5,none,2.5,double_hit,2,1.50,0.0000,0.2155,0.0170
+baseline_1_over_sqrt_n,0.50,18_24m,female,5,none,2.5,hit_plus_sting,2,1.50,0.0112,0.2868,0.0144
+baseline_1_over_sqrt_n,0.50,18_24m,female,5,none,2.5,double_hit_plus_sting,3,1.50,0.0042,0.0832,0.0270
+no_site_discount,0.00,18_24m,female,5,none,2.5,sting,1,1.50,0.2129,0.3056,0.0225
+no_site_discount,0.00,18_24m,female,5,none,2.5,hit,1,1.50,0.0400,0.1892,0.0185
+no_site_discount,0.00,18_24m,female,5,none,2.5,double_hit,2,1.50,0.0000,0.2837,0.0145
+no_site_discount,0.00,18_24m,female,5,none,2.5,hit_plus_sting,2,1.50,0.0132,0.3845,0.0120
+no_site_discount,0.00,18_24m,female,5,none,2.5,double_hit_plus_sting,3,1.50,0.0045,0.1068,0.0244

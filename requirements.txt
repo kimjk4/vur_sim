@@ -1,0 +1,7 @@
+# The solver (vur_cfd/model.py, vur_cfd/techniques.py) and all six analysis
+# scripts run on the Python standard library alone. The only third-party
+# dependency in this archive is numpy, used by docs/physics_regression_checks.py.
+#
+# Pinned to the version used to produce the published results.
+# Python 3.9.13 (conda-forge).
+numpy==1.24.4
